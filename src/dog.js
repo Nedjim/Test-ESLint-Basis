@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 /* eslint-disable eol-last */
 class Dog {
   constructor(name) {
