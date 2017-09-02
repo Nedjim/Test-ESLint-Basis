@@ -5,6 +5,7 @@
 - Node
 - React
 - ESLint
+- Compat
 
 ## Execution
 ```
